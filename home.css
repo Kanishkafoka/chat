@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+    margin: 0 auto;
+    background-color: #dec4c4;
+    background-image: url(https://www.commbox.io/wp-content/uploads/2019/09/91462731_m-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
